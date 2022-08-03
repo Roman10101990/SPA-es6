@@ -1,0 +1,86 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    font-size:14px;
+}
+body {
+    background-image: url("../img/main.jpg");
+}
+a {
+    text-decoration: none;
+}
+#root, #id {
+    width: 800px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#main-nav {
+    justify-content: center;
+}
+nav a {
+    color: white;
+    font-size: 18px
+}
+#main-nav a{
+    font-size:26px;
+    font-weight:600;
+    color:white;
+}
+#editDep {
+    color: white;
+    font-size: 24px;
+    font-weight: 600;
+    text-shadow: #FC0 7px 0 19px;
+}
+
+#divList {
+    background-image: url("../img/bg1.jpg");
+    padding:5px;
+    width: 600px;
+    height: auto;
+    margin: 0 auto;
+    margin-top: 15px;
+    color: white;
+}
+.add_empl {
+    font-size: 24px;
+    font-weight: 600;
+    color: white;
+    text-shadow: #FC0 7px 0 19px;
+}
+#salBlock{
+    margin-top:20px;
+}
+#persList{
+    margin-top:15px;
+}
+.head--title{
+    font-size:32px;
+    font-weight:600;
+    text-shadow: #FC0 7px 0 19px;
+}
+.head--title--edEmpl{
+    color:white;
+    font-weight:900;
+    font-size:28px;
+    text-shadow:#FC0 7px 0 19px;
+}
+.dep--det--head{
+    color:white; 
+    font-size:22px; 
+    font-weight:700;
+}
+span.dep--main{
+    font-weight:900;
+     font-size:28px; 
+     text-shadow: #FC0 7px 0 19px;
+}
+span.dep--main2{
+    font-weight:900; 
+    font-size:28px;
+     text-shadow: white 7px 0 19px;
+}
+#div{
+    color:white;
+}

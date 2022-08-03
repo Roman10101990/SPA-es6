@@ -1,0 +1,92 @@
+{
+  "departments": [
+    {
+      "id": 1,
+      "name": "IT",
+      "description": "Strong team of developers, testers and project managers",
+      "headOfDepartment": "Jack Smith",
+      "employees": [
+        {
+          "id": 1,
+          "firstName": "John1",
+          "lastName": "Will",
+          "dateOfBirth": "2022-06-03",
+          "email": "john@gmail.com",
+          "salary": "1000"
+        },
+        {
+          "id": 2,
+          "firstName": "Jack",
+          "lastName": "Smith",
+          "dateOfBirth": "12-11-1991",
+          "email": "jack@gmail.com",
+          "salary": 1500
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Marketing",
+      "description": "Best team of managers and emloyees in marketing sphere",
+      "headOfDepartment": "",
+      "employees": [
+        {
+          "id": 1,
+          "firstName": "Jimm",
+          "lastName": "Back",
+          "dateOfBirth": "10-12-1992",
+          "email": "jimm@gmail.com",
+          "salary": 1000
+        },
+        {
+          "id": 2,
+          "firstName": "Won",
+          "lastName": "Little",
+          "dateOfBirth": "10-12-1991",
+          "email": "won@gmail.com",
+          "salary": 900
+        },
+        {
+          "id": 3,
+          "firstName": "Sarah",
+          "lastName": "Connor",
+          "dateOfBirth": "10-12-1991",
+          "email": "sarah@gmail.com",
+          "salary": 1200
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Sales",
+      "description": "Experienced team of managers and emloyees in IT sales sphere",
+      "headOfDepartment": "",
+      "employees": [
+        {
+          "id": 1,
+          "firstName": "Sheer",
+          "lastName": "Good",
+          "dateOfBirth": "11-12-1993",
+          "email": "sheer@gmail.com",
+          "salary": 1100
+        },
+        {
+          "id": 2,
+          "firstName": "Bean",
+          "lastName": "Luck",
+          "dateOfBirth": "11-11-1991",
+          "email": "bean@gmail.com",
+          "salary": 1000
+        },
+        {
+          "id": 3,
+          "firstName": "Jacky",
+          "lastName": "Chan",
+          "dateOfBirth": "11-10-1990",
+          "email": "jacky@gmail.com",
+          "salary": 1200
+        }
+      ]
+    }
+  ]
+}
